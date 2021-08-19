@@ -13,7 +13,7 @@ import "math"
 // `const` declares a constant value.
 const s string = "constant"
 
-// Sepcial method to generate maximum of uint.
+// Special method to generate maximum of uint.
 // Ref: http://blog.golang.org/constants
 const MaxUint = ^uint(0)
 const MaxUint32 = ^uint32(0)
